@@ -23,8 +23,8 @@ header {
   height: 100vh;
   background-image: linear-gradient(
       120deg,
-      rgba(132, 250, 175, 0.366) 0%,
-      rgba(239, 244, 143, 0.447) 100%
+      rgba(145, 239, 179, 0.366) 0%,
+      rgba(91, 130, 89, 0.447) 100%
     ),
     url(../img/allef-vinicius-xxTHuC_wdn0-unsplash.jpg);
   background-repeat: no-repeat;
@@ -71,7 +71,7 @@ header {
   transform: translate(110%);
   background-color: #acd899c7;
   border-radius: 2%;
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px rgba(1, 15, 1, 0.5);
 }
 
 .spread {
@@ -79,7 +79,7 @@ header {
 }
 
 .menu-navegacion a {
-  color: rgba(79, 85, 77, 0.742);
+  color: #05230abd;
   font-size: 25px;
   text-decoration: none;
 }
